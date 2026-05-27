@@ -25,7 +25,7 @@ Data professional with a background spanning engineering, education, and applied
 
 ## Education
 
-**M.S. Data Analytics and Public Policy Management, 2026** — Carnegie Mellon University, Heinz College of Information Systems *(Highest Distinction)*  
+**M.S. Data Analytics and Public Policy Management, 2026** — Carnegie Mellon University, Heinz College of Information Systems, Public Policy, and Management *(Highest Distinction)*  
 **B.S.A.S. Electrical Engineering, 2019** — Washington University in St. Louis, McKelvey School of Engineering  
 **Certificate in Applied Data Science, 2023** — Massachusetts Institute of Technology
 
@@ -33,17 +33,21 @@ Data professional with a background spanning engineering, education, and applied
 
 ## Experience
 
-**Data & Compliance Analyst (Intern)** — Nonprofit small business lending · *6 months*  
+**Data & Finance Analytics (Intern)** — Axiom Advancement Corporation, Nonprofit Small Business Lending · *6 months*  
 Managed data systems, conducted analysis, and built custom Excel applications to support lending operations and compliance reporting.
+2025-2026, Pittsburgh, PA
 
-**Data Systems & Analytics Manager** — Public charter school · *2 years*  
+**Data Systems Manager** — Bridge Boston Charter School District, Public Charter School · *2 years*  
 Owned the school's data infrastructure end-to-end: system administration, reporting pipelines, and analytics to support instructional and operational decisions.
+2022 - 2024, Boston, MA
 
-**Math Teacher (AmeriCorps)** — Public school · *2 years*  
-Middle and high school math instruction through national service program.
+**Math Teacher (AmeriCorps)** — East St. Louis Public Schools · *2 years*  
+Elementary and Middle School math instruction through national service program.
+2020 - 2022, East St. Louis, IL/St. Louis, MO
 
-**Product Engineer** — IoT hardware startup · *1 year*  
+**Product Engineer** — Qstodian LLC, IoT hardware startup · *1 year*  
 Prototyped and built IoT sensor products from concept through production.
+2019 - 2020, St. Louis, MO
 
 ---
 
