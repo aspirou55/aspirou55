@@ -25,7 +25,7 @@ Data professional with a background spanning engineering, education, and applied
 
 ## Education
 
-**M.S. Data Analytics and Public Policy Management** — Carnegie Mellon University, Heinz College of Information Systems, Public Policy, and Management *(Highest Distinction)*, May 2026  
+**M.S. Data Analytics and Public Policy Management** — Carnegie Mellon University, Heinz College of Information Systems and Public Policy, Public Policy, and Management and Data Analytics *(Highest Distinction)*, May 2026  
 **B.S.A.S. Electrical Engineering** — Washington University in St. Louis, McKelvey School of Engineering, May 2019  
 **Certificate in Applied Data Science** — Massachusetts Institute of Technology, May 2023
 
