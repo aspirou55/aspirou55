@@ -12,7 +12,7 @@ Data professional with a background spanning engineering, education, and applied
 
 ---
 
-## Featured Projects
+## Technical Projects
 
 | Project | Description | Stack |
 |---------|-------------|-------|
@@ -20,6 +20,12 @@ Data professional with a background spanning engineering, education, and applied
 | [sports-analytics-catcher-contributions](https://github.com/aspirou55/sports-analytics-catcher-contributions) | Multilevel Bayesian and mixed-effects models quantifying MLB catcher defensive contributions across framing, blocking, and count-specific dimensions from 2025 Statcast data | R, Quarto |
 | [DonorsChoose](https://github.com/aspirou55/DonorsChoose) | ML pipeline predicting underfunded DonorsChoose projects to prioritize expert intervention, including a bias audit of model outputs | Python, Excel |
 | [NBA_Roster_Optimization](https://github.com/aspirou55/NBA_Roster_Optimization) | Salary-cap-constrained roster optimization combining VORP projection models with integer programming for NBA team construction | Python, Gurobi, Excel |
+
+## Research & Analysis
+
+| Project | Description |
+|---------|-------------|
+| [Valencia-COVID19-AI-Case-Study](https://github.com/aspirou55/Valencia-COVID19-AI-Case-Study) | Comprehensive AI deployment case study for Valencia's COVID-19 response: three-use-case decision-support system with ROI analysis (25:1 benefit-cost ratio), deployment roadmap, and governance architecture — CMU Operationalizing AI Systems, Spring 2026 |
 
 ---
 
