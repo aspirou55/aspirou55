@@ -17,6 +17,7 @@ Data professional with a background spanning engineering, education, and applied
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [SubstationDetection-GridPlanning](https://github.com/aspirou55/SubstationDetection-GridPlanning) | End-to-end pipeline detecting electrical substations from aerial imagery (U-Net/ResNet-34 ensemble) and recommending new sites via MILP optimization | Python, PyTorch, PuLP |
+| [RAG-Product-Image-Generation-Pipeline](https://github.com/aspirou55/RAG-Product-Image-Generation-Pipeline) | Two-track LLM pipeline using RAG and custom cosine-similarity retrieval to extract visual features from product reviews and generate diffusion model prompt seeds | Python, OpenAI API |
 | [sports-analytics-catcher-contributions](https://github.com/aspirou55/sports-analytics-catcher-contributions) | Multilevel Bayesian and mixed-effects models quantifying MLB catcher defensive contributions across framing, blocking, and count-specific dimensions from 2025 Statcast data | R, Quarto |
 | [DonorsChoose](https://github.com/aspirou55/DonorsChoose) | ML pipeline predicting underfunded DonorsChoose projects to prioritize expert intervention, including a bias audit of model outputs | Python, Excel |
 | [NBA_Roster_Optimization](https://github.com/aspirou55/NBA_Roster_Optimization) | Salary-cap-constrained roster optimization combining VORP projection models with integer programming for NBA team construction | Python, Gurobi, Excel |
