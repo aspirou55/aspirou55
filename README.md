@@ -16,6 +16,7 @@ Data professional with a background spanning engineering, education, and applied
 
 | Project | Description | Stack |
 |---------|-------------|-------|
+| [core-web-crawler](https://github.com/aspirou55/core-web-crawler) | Hardened web crawler and REST API ([live demo](https://edabpk62tn.us-east-1.awsapprunner.com/docs)) that fetches any URL and returns metadata, page-type classification, and ranked topics — with SSRF guard, streaming size cap, and anti-bot-wall detection; containerized and deployed on AWS App Runner | Python, FastAPI, Docker, AWS |
 | [SubstationDetection-GridPlanning](https://github.com/aspirou55/SubstationDetection-GridPlanning) | End-to-end pipeline detecting electrical substations from aerial imagery (U-Net/ResNet-34 ensemble) and recommending new sites via MILP optimization | Python, PyTorch, PuLP |
 | [RAG-Product-Image-Generation-Pipeline](https://github.com/aspirou55/RAG-Product-Image-Generation-Pipeline) | Two-track LLM pipeline using RAG and custom cosine-similarity retrieval to extract visual features from product reviews and generate diffusion model prompt seeds | Python, OpenAI API |
 | [sports-analytics-catcher-contributions](https://github.com/aspirou55/sports-analytics-catcher-contributions) | Multilevel Bayesian and mixed-effects models quantifying MLB catcher defensive contributions across framing, blocking, and count-specific dimensions from 2025 Statcast data | R, Quarto |
