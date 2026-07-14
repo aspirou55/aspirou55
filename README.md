@@ -28,7 +28,7 @@ Data professional with a background spanning engineering, education, and applied
 | Project | Description |
 |---------|-------------|
 | [Valencia-COVID19-AI-Case-Study](https://github.com/aspirou55/Valencia-COVID19-AI-Case-Study) | Comprehensive AI deployment case study for Valencia's COVID-19 response: three-use-case decision-support system with ROI analysis (25:1 benefit-cost ratio), deployment roadmap, and governance architecture — CMU Operationalizing AI Systems, Spring 2026 |
-| [Water-Without-Borders-Harvard-Hackathon](https://github.com/aspirou55/Water-Without-Borders-Harvard-Hackathon) | **1st place, 401 entries** — 2025 Harvard Policy Hackathon (Kennedy School). Policy brief and IoT monitoring architecture proposing three reforms to India's water governance crisis, piloted in the Kaveri Basin |
+| [Water-Without-Borders-Harvard-Hackathon](https://github.com/aspirou55/Water-Without-Borders-Harvard-Hackathon) | **1st place, 401 entries** — 2025 Harvard Policy Hackathon (Kennedy School). Policy brief and IoT monitoring proposal for India's water governance crisis, piloted in the Kaveri Basin — extended post-hackathon into a working Databricks ELT pipeline (PySpark medallion architecture on Delta Lake, simulated sensor telemetry, Tableau dashboard via Databricks SQL Warehouse) |
 | [AI-Code-of-Ethics-for-Data-Engineering](https://github.com/aspirou55/AI-Code-of-Ethics-for-Data-Engineering) | Critical analysis of the ACM Code of Ethics for computing professionals through the lens of modern data engineering and AI lifecycle realities, with recommendations for modernization using the UNESCO AI Ethics framework |
 
 ---
